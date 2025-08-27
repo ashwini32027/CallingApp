@@ -17,8 +17,7 @@ A modern **React.js** application that enables real-time **voice and video calls
 
 ## 🖼️ Demo / Preview
 
-![Demo GIF](https://media.giphy.com/media/your-demo-gif-url/giphy.gif)  
-*Replace above URL with your actual demo GIF*
+![Demo GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm02MnNhZjNxMmdvMzJjbTg1OWU1MW44ZDAzZ3o5eGZ3OGVtaW9zcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UQfqQifAjmFHVmstIl/giphy.gif)  
 
 ---
 
